@@ -49,10 +49,7 @@ Percentage contribution of each pizza category
 
 📸 Dashboard Screenshot
 
-Add your Excel dashboard screenshot using this line:
-(Replace dashboard.png with your actual image name)
-
-![Pizza Sales Dashboard](images/dashboard.png)
+![Pizza Sales Dashboard](https://github.com/Gargiparlikar/Pizza-Sales-Analysis-SQL-EXCEL-/blob/main/Screenshot%202025-12-04%20132304.png)
 
 
 Or drag & drop the image directly into your README if using GitHub.
