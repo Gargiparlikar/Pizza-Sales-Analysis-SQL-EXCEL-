@@ -1,4 +1,4 @@
-#🍕 Pizza Sales Analysis — SQL & Excel Dashboard
+# 🍕 Pizza Sales Analysis — SQL & Excel Dashboard
 
 This project analyzes a pizza store’s sales data using SQL for data extraction, cleaning, and analysis, and Excel for building an interactive dashboard.
 The goal is to uncover key sales insights, performance trends, and data-driven recommendations to help improve business decisions.
